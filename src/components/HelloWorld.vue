@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    컴포넌트 안의 컴포넌트
+    메인페이지 개발중입니다.
   </div>
 </template>
 

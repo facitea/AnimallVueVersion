@@ -11,7 +11,7 @@
             <li class="navFlexItem"><router-link to="/NotYetDeveloped">Training</router-link></li>
             <li class="navFlexItem"><router-link to="/NotYetDeveloped">Shop</router-link></li>
             <li class="navFlexItem"><router-link to="/NotYetDeveloped">Trip</router-link></li>
-            <li class="navFlexItem"><router-link to="/BoardList">Me</router-link></li>
+            <li class="navFlexItem"><router-link to="/MyPage">Me</router-link></li>
           </ul>
         </div>
       </nav>
